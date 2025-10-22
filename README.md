@@ -66,7 +66,7 @@ Although the 95% accuracy goal was not achieved, the best performance was achiev
 
 ---
 
-## 📝 Next Steps (Pasos Siguientes)
+## 📝 Next Steps
 
 If you wish to continue improving the model, suggested avenues for experimentation include:
 * Collecting more data or cleaner data.
