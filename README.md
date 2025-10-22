@@ -1,6 +1,6 @@
 # 🩺 Heart Disease Prediction Project
 
-## Clasificación de Enfermedades Cardíacas con Machine Learning
+## Binary Classification Problem with Machine Learning
 
 This project aims to develop and evaluate a **Machine Learning Binary Classification** model capable of predicting whether or not a patient has heart disease, based on a set of key clinical parameters.
 
