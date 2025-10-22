@@ -8,7 +8,7 @@ The development followed a structured 6-step approach: Problem Definition, Data,
 
 ---
 
-## 🎯 Goal and Evaluation (Objetivo y Evaluación)
+## 🎯 Goal and Evaluation
 
 ### Problem Statement
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
@@ -18,7 +18,7 @@ The Proof of Concept's initial objective was to achieve an **Accuracy** of **95%
 
 ---
 
-## 📊 Dataset (Conjunto de Datos)
+## 📊 Dataset
 
 The project utilizes a medical dataset that contains 14 clinical attributes and a binary target value.
 
@@ -50,14 +50,14 @@ Different Scikit-learn classification algorithms were experimented with, includi
 * **Random Forest** (`RandomForestClassifier`)
 
 ### Final Result
-Although the 95% accuracy goal was not met, the best performance was achieved with:
+Although the 95% accuracy goal was not achieved, the best performance was achieved with:
 
 > **Model:** `LogisticRegression()`
 > **Accuracy:** **86%**
 
 ---
 
-## 🛠️ Technologies Used (Tecnologías Utilizadas)
+## 🛠️ Technologies Used
 
 * **Language:** Python
 * **Data Analysis:** `Pandas`, `NumPy`, `Seaborn`
