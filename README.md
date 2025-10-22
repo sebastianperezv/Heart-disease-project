@@ -2,7 +2,7 @@
 
 ## Clasificación de Enfermedades Cardíacas con Machine Learning
 
-This project aims to develop and evaluate a **Machine Learning Classification** model capable of predicting whether or not a patient has heart disease, based on a set of key clinical parameters.
+This project aims to develop and evaluate a **Machine Learning Binary Classification** model capable of predicting whether or not a patient has heart disease, based on a set of key clinical parameters.
 
 The development followed a structured 6-step approach: Problem Definition, Data, Evaluation, Feature Analysis, Modeling, and Experimentation.
 
